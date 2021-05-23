@@ -2,7 +2,7 @@
 
 This is a turtle crossing game Developed with python GUI.
 
-You can develop your own game and take reference from these peice of code.
+You can develop your own game and take reference from these piece of code.
 
 This repository will help you to better undestand the Turtle Library and its Methods().
 
